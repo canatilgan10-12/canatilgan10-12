@@ -15,4 +15,3 @@ Hier finden Sie eine Auswahl der Werkzeuge, die ich während meines Praktikums e
 | [DragAndDropBlocker](https://github.com/canatilgan10-12/DragAndDropBlocker) | Browser-Erweiterung: blockiert Datei-Drag & Drop auf fremden Websites und warnt bei sensiblen Eingaben |
 | [FileMetaTagger](https://github.com/canatilgan10-12/FileMetaTagger) | Dateien im Browser mit Tags und Kategorien organisieren und wiederfinden |
 | [ReportOps](https://github.com/canatilgan10-12/ReportOps) | Support-Hilfswerkzeug: fügt vorbereitete Berichtstexte per Klick in Textfelder ein |
-| [TeleSalesPrompter](https://github.com/canatilgan10-12/TeleSalesPrompter) | Gesprächsleitfaden für den telefonischen Vertrieb |
